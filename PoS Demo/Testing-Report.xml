@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Test-Suite name="UiPath Project - Test Automation" total="15" passed="11" failures="4" execution-date="06/11/2020 13:20:22" total-time="00:03:07">
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Application Menu</TestName>
+    <Started>06/11/2020 13:20:12</Started>
+    <Ended>06/11/2020 13:20:22</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify POS Menu</TestName>
+    <Started>06/11/2020 13:20:26</Started>
+    <Ended>06/11/2020 13:20:30</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Sales Person entry screen on choosing Sales/Returns</TestName>
+    <Started>06/11/2020 13:20:30</Started>
+    <Ended>06/11/2020 13:20:34</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Sales Person entry</TestName>
+    <Started>06/11/2020 13:20:34</Started>
+    <Ended>06/11/2020 13:20:38</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Sale option on entering Source code as LO</TestName>
+    <Started>06/11/2020 13:20:38</Started>
+    <Ended>06/11/2020 13:21:12</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Customer Screen display on choosing Sale</TestName>
+    <Started>06/11/2020 13:21:12</Started>
+    <Ended>06/11/2020 13:21:16</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify entry of customer and Revolving Charge</TestName>
+    <Started>06/11/2020 13:21:17</Started>
+    <Ended>06/11/2020 13:21:22</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify entry of customer and Revolving Charge</TestName>
+    <Started>06/11/2020 13:21:22</Started>
+    <Ended>06/11/2020 13:21:28</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify SKU details returned on Item Entry Screen</TestName>
+    <Started>06/11/2020 13:21:28</Started>
+    <Ended>06/11/2020 13:21:38</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify ESP question on entering no for diamond bond</TestName>
+    <Started>06/11/2020 13:21:38</Started>
+    <Ended>06/11/2020 13:21:41</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Repair question on entering no for ESP</TestName>
+    <Started>06/11/2020 13:21:42</Started>
+    <Ended>06/11/2020 13:21:45</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Completion of Sale on entering no for customer repair</TestName>
+    <Started>06/11/2020 13:21:45</Started>
+    <Ended>06/11/2020 13:21:50</Ended>
+    <Status>PASSED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Promotion Code screen on enetring no for St Jude Hospital donation</TestName>
+    <Started>06/11/2020 13:21:50</Started>
+    <Ended>06/11/2020 13:22:22</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Application Menu</TestName>
+    <Started>06/11/2020 13:22:22</Started>
+    <Ended>06/11/2020 13:22:53</Ended>
+    <Status>FAILED</Status>
+  </Result>
+  <Result>
+    <TestScenario>Sale with Cash</TestScenario>
+    <TestName>Verify Application Menu</TestName>
+    <Started>06/11/2020 13:22:53</Started>
+    <Ended>06/11/2020 13:23:25</Ended>
+    <Status>FAILED</Status>
+  </Result>
+</Test-Suite>
